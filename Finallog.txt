@@ -1,0 +1,10 @@
+Client ip: 127.0.0.1
+OrderId: 1000
+Total: $20.67
+
+OrderId: 1001
+Total: $20.67
+
+OrderId: 1002
+Total: $20.67
+
